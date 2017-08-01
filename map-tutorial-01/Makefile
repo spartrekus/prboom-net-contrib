@@ -1,7 +1,7 @@
 
 all:
 	   echo make all to start
-	   echo make fetch to wget the textures... and so on for for the Pro New Gamer
+	   echo make fetch to wget the textures... and so on for the Pro New Gamer
 
 fetch:
 	   wget ftp://ftp.fu-berlin.de/pc/games/idgames/levels/doom2/Ports/megawads/aaliens.zip -O aaliens.zip
